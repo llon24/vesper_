@@ -1,25 +1,25 @@
 function DataStart() {
   return (
     <div>
-      <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl">저녁 기도</p>
         <p>
           <p className="font-semibold text-red-600">십자 성호를 그으며</p>
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
         <p>
           성부와 성자와 성령의 이름으로.
           <br />
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>
           아멘.
           <br />
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
         <p>
           주님, 오늘 생각과 말과 행위로 지은 죄와
           <br />
@@ -30,7 +30,7 @@ function DataStart() {
           <p className="font-semibold text-red-600">잠깐 반성한다.</p>
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>
           하느님, <br />
           제가 죄를 지어
@@ -55,7 +55,7 @@ function DataStart() {
           <br />
           <br />
         </p>
-        <p class="mark" className="float-left -ml-5 md:-ml-8">
+        <p class="mark" className="float-left -ml-6 md:-ml-8">
           &#9711;
         </p>
         <p>
@@ -69,7 +69,7 @@ function DataStart() {
           <br />
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           하느님, 하느님께서는 자비의 근원이시며
           <br />
@@ -81,7 +81,7 @@ function DataStart() {
           <br />
           <br />
         </p>
-        <p class="mark" className="float-left -ml-5 md:-ml-8">
+        <p class="mark" className="float-left -ml-6 md:-ml-8">
           &#9711;
         </p>
         <p>
@@ -95,7 +95,7 @@ function DataStart() {
           <br />
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
         <p>
           하늘에 계신 우리 아버지, 오늘 하루도 이미 저물었나이다.
           <br />
@@ -108,13 +108,13 @@ function DataStart() {
           주님의 사랑에 감사하나이다.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>
           아멘.
           <br />
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
         <p>
           전능하신 천주
           <br />
@@ -124,7 +124,7 @@ function DataStart() {
           저희에게 강복하시고 지켜 주소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
     </div>

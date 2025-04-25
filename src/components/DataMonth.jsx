@@ -3,11 +3,11 @@ function DataMonth() {
   return (
     <>
       {month === 3 && (
-        <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
           <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
             성 요셉에게 바치는 기도
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             우리 주 예수님을 기르신 아버지시요
             <br />
@@ -18,7 +18,7 @@ function DataMonth() {
             성 요셉께 간절히 청하오니
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             하느님께 빌어 주시어
             <br />
@@ -27,7 +27,7 @@ function DataMonth() {
             또한 죽을 때에 저희를 지켜 주소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>
             아멘.
             <br />
@@ -35,7 +35,7 @@ function DataMonth() {
         </div>
       )}
       {month === 5 && (
-        <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
           <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
             마리아의 노래
           </p>
@@ -50,72 +50,72 @@ function DataMonth() {
               <br />
             </p>
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             내 영혼이 주님을 찬양하고
             <br />
             내 구원자 하느님 안에서 내 마음 기뻐 뛰노네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             그분은 비천한 당신 종을 굽어보셨네.
             <br />
             이제부터 과연 모든 세대가 나를 복되다 하리라.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             전능하신 분이 나에게 큰일을 하셨으니
             <br />
             그 이름은 거룩하신 분이시다.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             그분 자비는 세세 대대로
             <br />
             그분을 두려워하는 이들에게 미치리라.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             그분은 당신 팔로 권능을 떨치시어
             <br />
             마음이 교만한 자들을 흩으셨네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             권세 있는 자를 자리에서 내치시고
             <br />
             비천한 이를 들어 올리셨네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             굶주린 이를 좋은 것으로 채워 주시고
             <br />
             부유한 자를 빈손으로 돌려보내셨네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             당신 자비를 기억하시어
             <br />
             당신 종 이스라엘을 돌보셨으니
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             우리 조상들에게 말씀하신 대로
             <br />
             아브라함과 그 후손에게 그분의 자비 영원하리라.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>영광이 성부와 성자와 성령께</p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             처음과 같이
             <br />
@@ -123,7 +123,7 @@ function DataMonth() {
             <br />
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
           <p>
             기도합시다.
             <br />
@@ -142,16 +142,16 @@ function DataMonth() {
             받아 누리게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>아멘.</p>
         </div>
       )}
       {month === 6 && (
-        <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
           <p className="pb-10 pl-4 font-bold text-xl/8 md:text-3xl/15">
             예수 성심께 천하 만민을 바치는 기도
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             지극히 어지신 구세주 예수님,
             <br />
@@ -160,7 +160,7 @@ function DataMonth() {
             저희를 굽어살피소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             저희는 이미 주님의 백성이오니
             <br />
@@ -171,7 +171,7 @@ function DataMonth() {
             오늘 저희를 주님의 성심께 봉헌하나이다.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             주님을 일찍이 알아 모시지 못한 사람도 많고
             <br />
@@ -180,7 +180,7 @@ function DataMonth() {
             주님을 떠난 사람도 많사오니
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             지극히 인자하신 예수님,
             <br />
@@ -189,7 +189,7 @@ function DataMonth() {
             주님의 성심께 이끌어 들이소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             주님께서는 목자이시니
             <br />
@@ -202,7 +202,7 @@ function DataMonth() {
             굶어 죽는 일이 없게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             옹졸한 고집에 사로잡힌 사람들이나
             <br />
@@ -213,7 +213,7 @@ function DataMonth() {
             한 우리에서 한 목자 밑에 살게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             주님, 거룩한 교회를 평화의 깃발로 세우시고
             <br />
@@ -226,20 +226,20 @@ function DataMonth() {
             영원히 찬미와 영광과 흠숭을 드리게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>아멘.</p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>예수 성심,</p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>이 세상에 주님의 나라를 세우소서.</p>
         </div>
       )}
       {month === 9 && (
-        <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
           <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
             한국 순교자들에게 바치는 기도
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             이 땅의 모든 순교자여,
             <br />
@@ -254,7 +254,7 @@ function DataMonth() {
             피를 흘리셨나이다.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             저희는 현세에서 악의 세력과 치열하게 싸우며
             <br />
@@ -265,7 +265,7 @@ function DataMonth() {
             저희를 위하여 빌어 주소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             위대하신 순교자들이여,
             <br />
@@ -276,7 +276,7 @@ function DataMonth() {
             하느님의 자비를 얻어 주소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             지금도 어둠의 세력이
             <br />
@@ -289,14 +289,14 @@ function DataMonth() {
             널리 펴시도록 빌어 주소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             용감하신 순교자들이여, 특별히 청하오니
             <br />
             우리나라를 위하여 하느님께 빌어 주소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             당신들은 이 땅에서
             <br />
@@ -305,7 +305,7 @@ function DataMonth() {
             목숨까지 바치셨으니
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             전능하신 하느님께 빌어 주시어
             <br />
@@ -314,7 +314,7 @@ function DataMonth() {
             사제와 수도자를 많이 나게 하시고
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             신자들이 주님의 계명을 잘 지키고
             <br />
@@ -329,7 +329,7 @@ function DataMonth() {
             인류의 구세주를 찾아오게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             참으로 영광스러운 순교자들이여,
             <br />
@@ -344,7 +344,7 @@ function DataMonth() {
             필요한 은혜를 얻어 주소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             또한 저희가 죽을 때까지
             <br />
@@ -355,30 +355,30 @@ function DataMonth() {
             주님의 은총을 입어 선종하게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             성 김대건 안드레아와 성 정하상 바오로와
             <br />
             동료 순교자들이여,
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>저희를 위하여 빌어 주소서.</p>
         </div>
       )}
       {month === 10 && (
-        <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
           <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
             성모 찬송
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             모후이시며 사랑이 넘친 어머니,
             <br />
             우리의 생명, 기쁨, 희망이시여,
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             당신 우러러 하와의 그 자손들이
             <br />
@@ -387,7 +387,7 @@ function DataMonth() {
             슬픔의 골짜기에서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             우리들의 보호자 성모님,
             <br />
@@ -396,7 +396,7 @@ function DataMonth() {
             인자로운 눈으로 굽어보소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             귀양살이 끝날 때에
             <br />
@@ -407,15 +407,15 @@ function DataMonth() {
             오! 아름다우신 동정 마리아님.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>천주의 성모님, 저희를 위하여 빌어 주시</p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             그리스도께서 약속하신 영원한 생명을 얻게 하소서.
             <br />
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
           <p>
             기도합시다.
             <br />
@@ -436,37 +436,37 @@ function DataMonth() {
             우리 주 그리스도를 통하여 비나이다.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>아멘.</p>
         </div>
       )}
       {month === 11 && (
-        <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
           <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
             시편 130(129)
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             깊은 구렁 속에서
             <br />
             주님, 당신께 부르짖나이다.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             주님, 제 소리를 들어 주소서.
             <br />
             애원하는 제 소리에 당신 귀를 기울이소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             주님, 당신이 죄악을 헤아리신다면
             <br />
             주님, 감당할 자 누구이리까?
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             당신은 용서하는 분이시니
             <br />
@@ -474,7 +474,7 @@ function DataMonth() {
             <br />
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             나 주님께 바라네.
             <br />
@@ -483,28 +483,28 @@ function DataMonth() {
             그분 말씀에 희망을 두네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             파수꾼이 새벽을 기다리기보다
             <br />
             내 영혼이 주님을 더 기다리네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             파수꾼이 새벽을 기다리기보다
             <br />
             이스라엘이 주님을 더 기다리네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             주님께는 자애가 있고
             <br />
             풍요로운 구원이 있네.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
           <p>
             바로 그분이 이스라엘을
             <br />
@@ -512,7 +512,7 @@ function DataMonth() {
             <br />
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
           <p>
             기도합시다.
             <br />
@@ -528,28 +528,28 @@ function DataMonth() {
             <br />
             우리 주 그리스도를 통하여 비나이다.
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>
             아멘.
             <br />
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
           <p>주님, 그들에게 영원한 안식을 주소서.</p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>
             영원한 빛을 그들에게 비추소서.
             <br />
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10010;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10010;</p>
           <p>
             세상을 떠난 모든 이가
             <br />
             하느님의 자비로 평화의 안식을 얻게 하소서.
             <br />
           </p>
-          <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+          <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
           <p>
             아멘.
             <br />

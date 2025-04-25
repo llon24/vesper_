@@ -1,7 +1,7 @@
 function DataEnd() {
   return (
-    <div className="space-y-10">
-      <div className="relative w-full px-4 py-12 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+    <div className="space-y-4 md:space-y-10">
+      <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
           가경자 최양업 토마스 신부
           <br />
@@ -37,7 +37,8 @@ function DataEnd() {
           <br />
           저희는 가경자 최양업 신부의 시복 시성의 은총을 빌며
           <br />
-          그의 전구에 힘입어 (최 마티아 신부를 위하여) 기도드리오니 들어주소서.
+          그의 전구에 힘입어 (&nbsp;&nbsp;&nbsp;&nbsp;를 위하여) 기도드리오니
+          들어주소서.
           <br />
           우리 주 그리스도를 통하여 비나이다.
           <br />
@@ -47,11 +48,11 @@ function DataEnd() {
           &lt;2022년 3월 23일 주교회의 2022년 춘계 정기총회 승인&gt;
         </p>
       </div>
-      <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           사제들을 위한 기도 1
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           영원한 사제이신 예수님
           <br />
@@ -60,7 +61,7 @@ function DataEnd() {
           어느 누구도 그들을 해치지 못하게 하소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           주님의 영광스러운 사제직에 올라
           <br />
@@ -69,21 +70,21 @@ function DataEnd() {
           언제나 깨끗하고 거룩하게 지켜 주소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           주님의 뜨거운 사랑으로
           <br />
           사제들을 세속에 물들지 않도록 지켜 주소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           사제들이 하는 모든 일에 강복하시어
           <br />
           은총의 풍부한 열매를 맺게 하시고
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           저희로 말미암아
           <br />
@@ -94,14 +95,14 @@ function DataEnd() {
           영광을 누리게 하소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
-      <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           교황이나 주교를 위한 기도
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           모든 믿는 이들의 목자요 인도자이신 하느님,
           <br />
@@ -118,14 +119,14 @@ function DataEnd() {
           우리 주 그리스도를 통하여 비나이다.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
-      <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           수도자들을 위한 기도
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           세례성사의 은총을 더욱 풍부하게 열매 맺도록
           <br />
@@ -140,7 +141,7 @@ function DataEnd() {
           교회의 시작부터 지금까지 지속되게 하시니 감사하나이다.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           하느님,
           <br />
@@ -155,14 +156,14 @@ function DataEnd() {
           우리 주 그리스도를 통하여 비나이다.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
-      <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           성소를 위한 기도
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           좋으신 목자 예수님,
           <br />
@@ -171,7 +172,7 @@ function DataEnd() {
           사람 낚는 어부가 되게 하셨나이다.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           비오니, 오늘도
           <br />
@@ -182,7 +183,7 @@ function DataEnd() {
           주님의 일꾼으로 삼으소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           온 인류의 구원을 바라시는 주님,
           <br />
@@ -191,7 +192,7 @@ function DataEnd() {
           진리의 빛과 사랑의 불을 갈망하고 있사오니
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           많은 젊은이들이 그 갈망에 응답하여
           <br />
@@ -200,24 +201,24 @@ function DataEnd() {
           세상의 빛과 소금이 되게 하소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           주님, 슬기로운 이들을 많이 부르시어
           <br />
           주님께 자신을 봉헌하여 복음의 완덕으로 나아가게 하소서
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           또한 주님의 몸인 교회에 봉사하며
           <br />
           도움과 사랑을 애타게 바라는 이웃들에게 헌신하게 하소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
-      <div className="relative w-full px-4 py-12 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           가족을 위한 기도
         </p>
@@ -263,7 +264,7 @@ function DataEnd() {
           <br />
         </p>
       </div>
-      <div className="relative w-full px-4 py-12 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
           아무도 기도해 주지 않는
           <br />
@@ -288,9 +289,9 @@ function DataEnd() {
         <p>
           &#8270; 이때 침묵 중에 이웃의 자녀들을 위해,
           <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;극심한 곤궁에 처한 아이들을 위해,
+          &nbsp;&nbsp;&nbsp;극심한 곤궁에 처한 아이들을 위해,
           <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;착취당하는 아이들을 위해 기도한다.
+          &nbsp;&nbsp;&nbsp;착취당하는 아이들을 위해 기도한다.
           <br />
           <br />
         </p>
@@ -311,7 +312,7 @@ function DataEnd() {
           <br />
         </p>
       </div>
-      <div className="relative w-full px-4 py-12 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           우리의 지구를 위한 기도
         </p>
@@ -373,11 +374,11 @@ function DataEnd() {
           (프란치스코 교황 회칙「찬미받으소서」&lt;개정판&gt;)
         </p>
       </div>
-      <div className="relative w-full py-12 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           병자를 위한 기도
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#9711;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
           전능하시고 영원하신 하느님 아버지,
           <br />
@@ -393,7 +394,7 @@ function DataEnd() {
           건강을 도로 주소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#11044;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
         <p>
           주님의 손으로 일으켜 주시고
           <br />
@@ -404,7 +405,7 @@ function DataEnd() {
           더욱 힘차게 살아가게 하소서.
           <br />
         </p>
-        <p className="float-left -ml-5 md:-ml-8">&#10686;</p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
     </div>
