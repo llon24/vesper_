@@ -408,7 +408,7 @@ function DataMonth() {
             <br />
           </p>
           <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
-          <p>천주의 성모님, 저희를 위하여 빌어 주시</p>
+          <p>천주의 성모님, 저희를 위하여 빌어 주시어</p>
           <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
           <p>
             그리스도께서 약속하신 영원한 생명을 얻게 하소서.
