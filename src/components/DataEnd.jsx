@@ -408,6 +408,20 @@ function DataEnd() {
         <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+        <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
+          선종을 위한 기도
+        </p>
+        <p>
+          죽음을 이기고 부활하신 주님,<br />
+          (고 레지나에게) 선종하는 은혜를 주시어<br />
+          죽음을 맞는 순간에도<br />
+          영원한 천상 행복을 생각하고<br />
+          주님을 그리워하며<br />
+          기꺼이 죽음을 받아들이게 하소서.<br />
+          아멘.
+        </p>
+      </div>
     </div>
   );
 }
