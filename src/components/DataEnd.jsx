@@ -220,49 +220,38 @@ function DataEnd() {
       </div>
       <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
-          가족을 위한 기도
+          가정을 위한 기도 1
         </p>
+        <p className="float-left -ml-6 md:-ml-8">&#9711;</p>
         <p>
-          사랑이 지극하신 하느님 아버지,
+          마리아와 요셉에게 순종하시며
           <br />
-          가족이라는 든든한 울타리를 주셨으니
+          가정생활을 거룩하게 하신 예수님,
           <br />
-          감사드립니다.
+          저희 가정을 거룩하게 하시고
           <br />
+          저희가 성가정을 본받아
           <br />
-          저희 가족 한 사람 한 사람은 무엇보다도
-          <br />
-          당신 사랑의 선물입니다.
-          <br />
-          또한 저에게는 힘이요 지탱이며
-          <br />
-          위로이자 자랑입니다.
-          <br />
-          <br />
-          당신은 가족을 통하여
-          <br />
-          사랑이 무엇인지를 가르쳐주시고
-          <br />
-          사랑하는 법을 알려주시고
-          <br />
-          더 큰 사랑의 길로 인도하십니다.
-          <br />
-          <br />
-          하오니 주님,
-          <br />
-          저희 가족 한 사람 한 사람이
-          <br />
-          서로 아끼면서 우애를 돈독히 키워가게 하소서.
-          <br />
-          어려움은 함께 나누어서 반으로 줄게 하고
-          <br />
-          기쁨은 나누어서 배로 늘게 하시어
-          <br />
-          저희 모두가 평화 안에 머물게 하소서.
-          <br />
-          아멘.
+          주님의 뜻을 따라 살게 하소서.
           <br />
         </p>
+        <p className="float-left -ml-6 md:-ml-8">&#11044;</p>
+        <p>
+          가정생활의 자랑이며 모범이신
+          <br />
+          성모 마리아와 성 요셉,
+          <br />
+          저희 집안을 위하여 빌어 주시어
+          <br />
+          모든 가족이 건강하고 행복하게 하시며
+          <br />
+          언제나 주님을 섬기고 이웃을 사랑하며 살다가
+          <br />
+          주님의 은총으로 영원한 천상 가정에 들게 하소서.
+          <br />
+        </p>
+        <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
+        <p>아멘.</p>
       </div>
       <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
