@@ -218,7 +218,7 @@ function DataEnd() {
         <p className="float-left -ml-6 md:-ml-8">&#10686;</p>
         <p>아멘.</p>
       </div>
-      <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
+      <div className="relative w-full py-4 md:py-10 pl-8 pr-4 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           가정을 위한 기도 1
         </p>
