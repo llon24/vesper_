@@ -254,54 +254,6 @@ function DataEnd() {
         <p>아멘.</p>
       </div>
       <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
-        <p className="pb-10 pl-10 font-bold text-xl/8 md:text-3xl/15">
-          아무도 기도해 주지 않는
-          <br />
-          아이들을 위한 기도
-        </p>
-
-        <p>
-          하느님 아버지!
-          <br />
-          아무도 기도해 주지 않는 아이들이 아직도 많이 있고
-          <br />
-          고통을 겪는 그 아이들을 보시는 것이
-          <br />
-          아버지께 얼마나 큰 슬픔인지요!
-          <br />
-          <br />
-          그들을 위해 저희가 오늘 특별히 청하오니
-          <br />
-          저희 마음에 그들을 맡겨주소서(침묵 중에 기도).
-          <br />
-        </p>
-        <p>
-          &#8270; 이때 침묵 중에 이웃의 자녀들을 위해,
-          <br />
-          &nbsp;&nbsp;&nbsp;극심한 곤궁에 처한 아이들을 위해,
-          <br />
-          &nbsp;&nbsp;&nbsp;착취당하는 아이들을 위해 기도한다.
-          <br />
-          <br />
-        </p>
-        <p>
-          아무도 기억해 주지 않고 기도해 주지 않는
-          <br />
-          그들을 아버지께 데려가오니
-          <br />
-          아버지의 크신 자비로 헤아리소서.
-          <br />
-          <br />
-          참 좋으신 아버지
-          <br />
-          저희의 청을 들어주시니 감사하나이다.
-          <br />
-          <br />
-          아멘.
-          <br />
-        </p>
-      </div>
-      <div className="relative w-full px-4 py-4 md:py-10 text-gray-200 md:px-20 rounded-2xl bg-white/5">
         <p className="pb-10 pl-10 text-xl font-bold md:text-3xl/15">
           우리의 지구를 위한 기도
         </p>
