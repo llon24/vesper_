@@ -71,7 +71,7 @@ function DataEtc() {
         </p>
         <p>
           죽음을 이기고 부활하신 주님,<br />
-          (고 레지나에게) 선종하는 은혜를 주시어<br />
+          (<span className="font-semibold text-red-600">아무</span>에게) 선종하는 은혜를 주시어<br />
           죽음을 맞는 순간에도<br />
           영원한 천상 행복을 생각하고<br />
           주님을 그리워하며<br />
